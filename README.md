@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sanyamd
-- 👀 I’m interested in Quantum Computing
-- 🌱 I’m currently learning a secret
-- 💞️ I’m looking to collaborate on mysteries of quantum science
+- Thanks for coming by my page.
 
 
 <!---
